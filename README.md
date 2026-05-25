@@ -73,12 +73,11 @@ docker-compose up -d
 ### Подключиться к базе данных (например, через DBeaver)
 
 Параметры подключения:
-Параметр	    Значение
-Host	        localhost
-Port	        5432
-Database	    petstore
-User	        postgres
-Password	    postgres
+* Host: `localhost`
+* Port: `5433`
+* Database: `bigdata_lab1`
+* User: `postgres`
+* Password: `postgres`
 
 ### Выполнить аналитические запросы
 
